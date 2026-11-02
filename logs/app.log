@@ -1,0 +1,480 @@
+[2026-08-16 19:54:25,674] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [qqmusic] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [migu] found 1 results, total=1
+[2026-08-16 19:54:25,674] INFO music_dl: [myhkw_ne] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [kuwo] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [direct] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [kugou] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-16 19:54:25,675] INFO music_dl: Search: 30 raw → 5 deduped (total=5) from 12 sources
+[2026-08-16 19:54:25,676] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [myhkw_ne] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [direct] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-16 19:54:25,676] INFO music_dl: Search: 8 raw → 1 deduped (total=1) from 8 sources
+[2026-08-16 19:56:19,796] INFO music_dl: [kuwo] found 20 results, total=2665
+[2026-08-16 19:56:20,108] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-16 19:56:20,164] INFO music_dl: [migu] found 20 results, total=262
+[2026-08-16 19:56:20,290] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 19:56:20,339] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 19:56:20,370] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 19:56:20,650] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 19:56:21,983] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-16 19:56:23,014] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 19:56:24,833] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 19:56:31,487] INFO music_dl: Search: 182 raw → 127 deduped (total=2665) from 8 sources
+[2026-08-16 19:56:42,720] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (lossless)
+[2026-08-16 19:56:52,733] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 19:56:53,448] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 19:56:53,499] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 19:56:55,174] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 19:56:55,753] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 19:56:55,781] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 19:56:59,915] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 19:57:01,491] INFO music_dl: Search: 42 raw → 40 deduped (total=238) from 3 sources
+[2026-08-16 19:57:03,896] INFO music_dl: Search: 62 raw → 47 deduped (total=238) from 4 sources
+[2026-08-16 19:57:12,471] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (lossless)
+[2026-08-16 19:57:13,956] INFO music_dl: [cache] Audio URL HIT: netease|3420253905 (lossless)
+[2026-08-16 19:57:13,956] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (standard)
+[2026-08-16 19:57:15,175] INFO music_dl: [cache] Audio URL HIT: netease|1999253939 (lossless)
+[2026-08-16 19:57:15,175] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (standard)
+[2026-08-16 19:57:16,589] INFO music_dl: [cache] Audio URL stored: netease|2656567752 (lossless)
+[2026-08-16 19:57:18,464] INFO music_dl: [cache] Audio URL HIT: netease|1999253939 (standard)
+[2026-08-16 19:57:18,464] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (standard)
+[2026-08-16 19:57:20,119] INFO music_dl: [cache] Audio URL stored: netease|3414869621 (lossless)
+[2026-08-16 19:57:21,951] INFO music_dl: [cache] Audio URL HIT: netease|2656567752 (lossless)
+[2026-08-16 19:57:21,951] INFO music_dl: [cache] Audio URL stored: netease|2656567752 (standard)
+[2026-08-16 19:57:24,116] INFO music_dl: [cache] Audio URL HIT: netease|1999253939 (standard)
+[2026-08-16 19:57:24,117] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (standard)
+[2026-08-16 19:57:25,442] INFO music_dl: [cache] Audio URL HIT: netease|3420253905 (standard)
+[2026-08-16 19:57:25,442] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (standard)
+[2026-08-16 19:57:25,906] INFO music_dl: [cache] Audio URL HIT: netease|1999253939 (standard)
+[2026-08-16 19:57:25,906] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (standard)
+[2026-08-16 19:57:37,452] INFO music_dl: [cache] Audio URL HIT: netease|3420253905 (standard)
+[2026-08-16 19:57:37,452] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (standard)
+[2026-08-16 20:01:19,807] INFO music_dl: [cache] Search HIT: MIMI|netease|1
+[2026-08-16 20:01:25,488] INFO music_dl: [cache] Audio URL HIT: netease|3420253905 (standard)
+[2026-08-16 20:01:25,488] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (standard)
+[2026-08-16 20:01:28,010] INFO music_dl: [cache] Audio URL HIT: netease|3414869621 (lossless)
+[2026-08-16 20:01:28,010] INFO music_dl: [cache] Audio URL stored: netease|3414869621 (standard)
+[2026-08-16 20:03:38,584] INFO music_dl: [kuwo] found 20 results, total=2665
+[2026-08-16 20:03:38,643] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-16 20:03:38,716] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:38,745] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:38,786] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:39,151] INFO music_dl: [migu] found 20 results, total=262
+[2026-08-16 20:03:39,504] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:03:41,124] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:03:41,772] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-16 20:03:42,209] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 20:03:42,585] INFO music_dl: [kuwo] found 20 results, total=2665
+[2026-08-16 20:03:42,598] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-16 20:03:42,617] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:42,627] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:42,649] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:03:42,939] INFO music_dl: [migu] found 20 results, total=262
+[2026-08-16 20:03:43,131] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:03:44,476] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:03:45,398] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-16 20:03:47,184] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 20:03:49,603] INFO music_dl: Search: 182 raw → 127 deduped (total=2665) from 8 sources
+[2026-08-16 20:03:51,952] INFO music_dl: Search: 182 raw → 127 deduped (total=2665) from 8 sources
+[2026-08-16 20:04:01,724] INFO music_dl: [cache] Audio URL HIT: netease|3414869621 (standard)
+[2026-08-16 20:04:01,724] INFO music_dl: [cache] Audio URL stored: netease|3414869621 (standard)
+[2026-08-16 20:14:35,577] INFO music_dl: [download] SUCCESS: direct_url (round=1, attempt=1)
+[2026-08-16 20:15:06,281] INFO music_dl: [stream] using direct URL for 186016
+[2026-08-16 20:15:06,281] INFO music_dl: [cache] Audio URL stored: netease|186016 (direct)
+[2026-08-16 20:15:06,282] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 20:15:06,283] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 20:15:06,283] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 20:15:06,283] INFO music_dl: [meting] found 1 results, total=1
+[2026-08-16 20:15:06,283] INFO music_dl: [migu] found 1 results, total=1
+[2026-08-16 20:15:06,283] INFO music_dl: [direct] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [meting] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [meting] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [qqmusic] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [blmp3] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [xiageba] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [meting] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [kugou] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [myhkw_ne] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [gdstudio] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [tgws] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [kuwo] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [htwav] found 1 results, total=1
+[2026-08-16 20:15:06,284] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-16 20:15:06,285] INFO music_dl: Search: 34 raw → 5 deduped (total=5) from 13 sources
+[2026-08-16 20:15:49,364] INFO music_dl: [admin] Successful auth from 127.0.0.1
+[2026-08-16 20:17:09,744] INFO music_dl: [admin] Successful auth from 127.0.0.1
+[2026-08-16 20:18:00,056] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:18:00,905] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:18:01,046] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:18:01,437] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:18:03,508] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 20:18:13,221] INFO music_dl: Search: 92 raw → 53 deduped (total=238) from 5 sources
+[2026-08-16 20:30:26,834] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:30:27,738] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:30:28,098] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:30:28,354] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:30:36,694] INFO music_dl: Search: 72 raw → 50 deduped (total=238) from 4 sources
+[2026-08-16 20:30:37,777] INFO music_dl: [stream] using direct URL for 3420253905
+[2026-08-16 20:30:37,778] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (direct)
+[2026-08-16 20:30:42,654] INFO music_dl: [stream] using direct URL for 3414869621
+[2026-08-16 20:30:42,654] INFO music_dl: [cache] Audio URL stored: netease|3414869621 (direct)
+[2026-08-16 20:30:49,734] INFO music_dl: [stream] using direct URL for 3420253905
+[2026-08-16 20:30:49,734] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (direct)
+[2026-08-16 20:30:58,448] INFO music_dl: [stream] using direct URL for 2029875908
+[2026-08-16 20:30:58,448] INFO music_dl: [cache] Audio URL stored: netease|2029875908 (direct)
+[2026-08-16 20:31:06,684] INFO music_dl: [stream] using direct URL for 3414869621
+[2026-08-16 20:31:06,684] INFO music_dl: [cache] Audio URL stored: netease|3414869621 (direct)
+[2026-08-16 20:31:07,493] INFO music_dl: [stream] using direct URL for 2029875908
+[2026-08-16 20:31:07,493] INFO music_dl: [cache] Audio URL stored: netease|2029875908 (direct)
+[2026-08-16 20:38:52,036] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:38:52,903] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:38:53,351] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:38:53,578] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:39:01,912] INFO music_dl: Search: 72 raw → 50 deduped (total=238) from 4 sources
+[2026-08-16 20:40:45,807] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:40:46,537] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:40:46,744] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:40:46,968] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:40:54,781] INFO music_dl: Search: 72 raw → 50 deduped (total=238) from 4 sources
+[2026-08-16 20:41:37,960] INFO music_dl: [download] cross-search matched: TA (她站在地球的另一边看月亮) (id=2704499164)
+[2026-08-16 20:41:37,960] INFO music_dl: [download] SUCCESS: netease_cross (round=1, attempt=1)
+[2026-08-16 20:42:09,038] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:42:09,679] INFO music_dl: [direct] found 20 results, total=238
+[2026-08-16 20:42:10,214] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-16 20:42:10,311] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:42:12,603] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-16 20:42:17,715] INFO music_dl: Search: 92 raw → 56 deduped (total=238) from 5 sources
+[2026-08-16 20:43:31,762] INFO music_dl: [stream] cross-search matched: Good Without (Originally Performed by Mimi Webb) (id=1858018955)
+[2026-08-16 20:43:31,762] INFO music_dl: [cache] Audio URL stored: xiageba|cmqhvlozcbo65e0opwtqgg4l (cross_search)
+[2026-08-16 20:43:38,529] INFO music_dl: [cache] Audio URL stored: netease|3348646613 (lossless)
+[2026-08-16 20:43:41,164] INFO music_dl: [cache] Audio URL stored: netease|1961784984 (lossless)
+[2026-08-16 20:43:43,574] INFO music_dl: [stream] cross-search matched: 夜空 (id=417121)
+[2026-08-16 20:43:43,575] INFO music_dl: [cache] Audio URL stored: xiageba|cmsg9bcj903lovwvg0glvq1o9 (cross_search)
+[2026-08-16 20:43:56,234] INFO music_dl: [stream] cross-search matched: Daydream (id=1378563399)
+[2026-08-16 20:43:56,235] INFO music_dl: [cache] Audio URL stored: xiageba|cmqgteo7nygwwlc2hys38aiv (cross_search)
+[2026-08-16 20:43:59,618] INFO music_dl: [stream] cross-search matched: 无名之辈 (id=1376142151)
+[2026-08-16 20:43:59,619] INFO music_dl: [cache] Audio URL stored: xiageba|cmsvlqa0c06lrygvgo3komvpi (cross_search)
+[2026-08-16 20:44:07,624] INFO music_dl: [cache] Audio URL HIT: xiageba|cmqgteo7nygwwlc2hys38aiv (cross_search)
+[2026-08-16 20:44:07,624] INFO music_dl: [cache] Audio URL stored: xiageba|cmqgteo7nygwwlc2hys38aiv (standard)
+[2026-08-16 20:44:09,149] INFO music_dl: [cache] Audio URL HIT: xiageba|cmqhvlozcbo65e0opwtqgg4l (cross_search)
+[2026-08-16 20:44:09,150] INFO music_dl: [cache] Audio URL stored: xiageba|cmqhvlozcbo65e0opwtqgg4l (standard)
+[2026-08-16 20:44:18,229] INFO music_dl: [stream] cross-search matched: 想太多 (id=3341471097)
+[2026-08-16 20:44:18,229] INFO music_dl: [cache] Audio URL stored: xiageba|cmsvlq16o00o0ygvgpdorq2dl (cross_search)
+[2026-08-16 20:44:22,071] INFO music_dl: [stream] using direct URL for 3420253905
+[2026-08-16 20:44:22,071] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (direct)
+[2026-08-16 20:44:29,831] INFO music_dl: [download] SUCCESS: direct_url (round=1, attempt=1)
+[2026-08-16 20:44:36,565] INFO music_dl: [download] SUCCESS: direct_url (round=1, attempt=1)
+[2026-08-16 20:44:40,765] INFO music_dl: [download] SUCCESS: direct_url (round=1, attempt=1)
+[2026-08-16 20:46:56,756] INFO music_dl: [stream] using direct URL for 3420253905
+[2026-08-16 20:46:56,756] INFO music_dl: [cache] Audio URL stored: netease|3420253905 (direct)
+[2026-08-16 20:46:57,660] INFO music_dl: [stream] using direct URL for 1999253939
+[2026-08-16 20:46:57,660] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (direct)
+[2026-08-16 20:47:03,112] INFO music_dl: [stream] using direct URL for 2656567752
+[2026-08-16 20:47:03,112] INFO music_dl: [cache] Audio URL stored: netease|2656567752 (direct)
+[2026-08-16 20:47:06,985] INFO music_dl: [stream] using direct URL for 3335544260
+[2026-08-16 20:47:06,986] INFO music_dl: [cache] Audio URL stored: netease|3335544260 (direct)
+[2026-08-16 20:47:13,273] INFO music_dl: [stream] using direct URL for 2029875908
+[2026-08-16 20:47:13,275] INFO music_dl: [cache] Audio URL stored: netease|2029875908 (direct)
+[2026-08-16 20:47:27,676] INFO music_dl: [xiageba] found 20 results, total=68
+[2026-08-16 20:47:29,549] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:47:30,371] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-16 20:47:37,569] INFO music_dl: Search: 70 raw → 57 deduped (total=600) from 3 sources
+[2026-08-16 20:47:39,689] INFO music_dl: [stream] using direct URL for 004KHRXR1bXwIL
+[2026-08-16 20:47:39,689] INFO music_dl: [cache] Audio URL stored: qq|004KHRXR1bXwIL (direct)
+[2026-08-16 20:48:10,078] INFO music_dl: [stream] cross-search matched: ハナタバ (id=1999253939)
+[2026-08-16 20:48:10,078] INFO music_dl: [cache] Audio URL stored: qq|004W99Ka0WXxnb (cross_search)
+[2026-08-16 20:48:28,644] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-16 20:48:29,936] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-16 20:48:37,166] INFO music_dl: Search: 50 raw → 45 deduped (total=480) from 2 sources
+[2026-08-16 20:53:31,900] INFO music_dl: [stream] cross-search matched: サイエンス (feat. 重音テト) (id=2656567752)
+[2026-08-16 20:53:31,901] INFO music_dl: [cache] Audio URL stored: kugou|5a2cef0a749c4f223612ee265b58ba9a (cross_search)
+[2026-08-16 20:53:57,137] INFO music_dl: [admin] Successful auth from 127.0.0.1
+[2026-08-23 19:18:20,658] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:18:21,251] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 19:18:21,455] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:18:21,641] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 19:18:21,913] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:18:39,227] INFO music_dl: Search: 77 raw → 56 deduped (total=246) from 5 sources
+[2026-08-23 19:18:46,751] INFO music_dl: [stream] using direct URL for 3422671310
+[2026-08-23 19:18:46,751] INFO music_dl: [cache] Audio URL stored: netease|3422671310 (direct)
+[2026-08-23 19:18:49,455] ERROR music_dl: [stream] fetch failed for 3422671310: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3422671310&auth=a663d5779cc29ca5a5f962249bb57314398e5c7a
+[2026-08-23 19:19:14,749] INFO music_dl: [stream] using direct URL for 3335544260
+[2026-08-23 19:19:14,749] INFO music_dl: [cache] Audio URL stored: netease|3335544260 (direct)
+[2026-08-23 19:19:19,294] ERROR music_dl: [stream] fetch failed for 3335544260: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3335544260&auth=b24cecbb3ac4d8787f79807b7a4d4510b9dcc494
+[2026-08-23 19:19:21,142] INFO music_dl: [stream] using direct URL for 1999253939
+[2026-08-23 19:19:21,143] INFO music_dl: [cache] Audio URL stored: netease|1999253939 (direct)
+[2026-08-23 19:19:23,994] ERROR music_dl: [stream] fetch failed for 1999253939: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=1999253939&auth=468fc129d8eec47746fb1a6a9a9768c37592b045
+[2026-08-23 19:19:26,862] INFO music_dl: [stream] using direct URL for 1905586708
+[2026-08-23 19:19:26,863] INFO music_dl: [cache] Audio URL stored: netease|1905586708 (direct)
+[2026-08-23 19:19:28,631] ERROR music_dl: [stream] fetch failed for 1905586708: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=1905586708&auth=8ed77f44358e8e25e823f3fd6379f2743d00331f
+[2026-08-23 19:19:31,641] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:19:31,964] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:19:32,670] INFO music_dl: [stream] using direct URL for 3422671310
+[2026-08-23 19:19:32,670] INFO music_dl: [cache] Audio URL stored: netease|3422671310 (direct)
+[2026-08-23 19:19:33,747] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 19:19:34,529] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:19:34,530] INFO music_dl: Search: 75 raw → 64 deduped (total=600) from 4 sources
+[2026-08-23 19:19:35,183] ERROR music_dl: [stream] fetch failed for 3422671310: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3422671310&auth=a663d5779cc29ca5a5f962249bb57314398e5c7a
+[2026-08-23 19:20:49,615] INFO music_dl: [cache] Search HIT: MIMI|qq|1
+[2026-08-23 19:20:50,815] INFO music_dl: [stream] cross-search matched: ハナタバ (id=1999253939)
+[2026-08-23 19:20:50,815] INFO music_dl: [cache] Audio URL stored: qq|004W99Ka0WXxnb (cross_search)
+[2026-08-23 19:25:57,286] INFO music_dl: [xiageba] found 20 results, total=1955
+[2026-08-23 19:25:57,711] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-23 19:25:58,343] INFO music_dl: [direct] found 20 results, total=248
+[2026-08-23 19:25:59,021] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:26:08,747] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 19:26:08,749] INFO music_dl: Search: 91 raw → 43 deduped (total=1955) from 5 sources
+[2026-08-23 19:26:17,266] INFO music_dl: [stream] cross-search matched: 晴天 (原唱 周杰伦) (id=2668397359)
+[2026-08-23 19:26:17,266] INFO music_dl: [cache] Audio URL stored: netease|186016 (cross_search)
+[2026-08-23 19:26:30,491] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:30,492] INFO music_dl: [cache] Audio URL stored: netease|186047 (cross_search)
+[2026-08-23 19:26:38,748] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:38,748] INFO music_dl: [cache] Audio URL stored: netease|185916 (cross_search)
+[2026-08-23 19:26:43,084] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:43,085] INFO music_dl: [cache] Audio URL stored: netease|65538 (cross_search)
+[2026-08-23 19:26:47,124] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:47,125] INFO music_dl: [cache] Audio URL stored: netease|185717 (cross_search)
+[2026-08-23 19:26:51,247] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:51,247] INFO music_dl: [cache] Audio URL stored: netease|186018 (cross_search)
+[2026-08-23 19:26:55,427] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:26:55,427] INFO music_dl: [cache] Audio URL stored: netease|400162676 (cross_search)
+[2026-08-23 19:26:56,153] INFO music_dl: [cache] Audio URL stored: netease|1832228275 (lossless)
+[2026-08-23 19:27:04,768] INFO music_dl: [stream] cross-search matched: Test Test (id=1820340273)
+[2026-08-23 19:27:04,769] INFO music_dl: [cache] Audio URL stored: netease|1990654033 (cross_search)
+[2026-08-23 19:27:16,529] INFO music_dl: [xiageba] found 20 results, total=2000
+[2026-08-23 19:27:16,849] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-23 19:27:17,279] INFO music_dl: [direct] found 20 results, total=336
+[2026-08-23 19:27:19,771] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:27:29,053] INFO music_dl: Search: 71 raw → 44 deduped (total=2000) from 4 sources
+[2026-08-23 19:27:35,363] INFO music_dl: [cache] Search HIT: 周杰伦 告白气球|netease|1
+[2026-08-23 19:29:17,011] INFO music_dl: [stream] using direct URL for 3383242274
+[2026-08-23 19:29:17,011] INFO music_dl: [cache] Audio URL stored: netease|3383242274 (direct)
+[2026-08-23 19:29:18,153] ERROR music_dl: [stream] fetch failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:29:25,025] INFO music_dl: [stream] using direct URL for 3383242274
+[2026-08-23 19:29:25,025] INFO music_dl: [cache] Audio URL stored: netease|3383242274 (direct)
+[2026-08-23 19:29:27,325] ERROR music_dl: [stream] fetch failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:29:27,566] INFO music_dl: [cache] Audio URL HIT: netease|3383242274 (direct)
+[2026-08-23 19:29:27,566] INFO music_dl: [cache] Audio URL stored: netease|3383242274 (standard)
+[2026-08-23 19:29:29,075] ERROR music_dl: [stream] fetch failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:29:35,087] INFO music_dl: [cache] Audio URL HIT: netease|3383242274 (standard)
+[2026-08-23 19:29:35,087] INFO music_dl: [cache] Audio URL stored: netease|3383242274 (standard)
+[2026-08-23 19:29:41,182] ERROR music_dl: [stream] fetch failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:34:57,903] WARNING music_dl: [stream] source 'direct' failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:34:58,038] INFO music_dl: [stream] audio OK via 'netease' for 3383242274
+[2026-08-23 19:35:08,352] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:35:16,939] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:35:17,790] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:35:30,812] INFO music_dl: [download] SUCCESS: netease_direct (round=1, attempt=1)
+[2026-08-23 19:35:41,561] INFO music_dl: [stream] audio OK via 'netease_cross' for 999999999999
+[2026-08-23 19:35:54,570] INFO music_dl: [stream] audio OK via 'cache' for 999999999999
+[2026-08-23 19:36:08,956] ERROR music_dl: [stream] ALL SOURCES FAILED for 888888888888: 
+[2026-08-23 19:37:06,211] ERROR music_dl: [stream] ALL SOURCES FAILED for 777777777777: netease; netease_cross; myhkw_id; myhkw_kw; gdstudio
+[2026-08-23 19:37:08,028] WARNING music_dl: [stream] source 'direct' failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:37:08,227] INFO music_dl: [stream] audio OK via 'netease' for 3383242274
+[2026-08-23 19:37:23,354] INFO music_dl: [stream] audio OK via 'netease_cross' for 418603077
+[2026-08-23 19:37:24,106] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:37:37,270] INFO music_dl: [stream] audio OK via 'netease_cross' for 0039MnYb0qxYhV
+[2026-08-23 19:42:13,655] INFO music_dl: [xiageba] found 20 results, total=2000
+[2026-08-23 19:42:14,297] INFO music_dl: [luckxz] found 1 results, total=1
+[2026-08-23 19:42:14,314] INFO music_dl: [direct] found 20 results, total=336
+[2026-08-23 19:42:15,178] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:42:32,899] INFO music_dl: Search: 71 raw → 44 deduped (total=2000) from 4 sources
+[2026-08-23 19:42:38,785] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:43:26,357] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:44:40,575] WARNING music_dl: [stream] source 'direct' failed for 3383242274: 401 Client Error: Unauthorized for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3383242274&auth=0000000000000000000000000000000000000000
+[2026-08-23 19:44:40,732] INFO music_dl: [stream] audio OK via 'netease' for 3383242274
+[2026-08-23 19:44:41,572] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:44:42,412] INFO music_dl: [stream] audio OK via 'cache' for 3383242274
+[2026-08-23 19:45:44,108] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:45:44,465] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:45:44,731] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 19:45:45,241] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 19:45:45,889] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:45:54,248] INFO music_dl: [gdstudio] found 19 results, total=19
+[2026-08-23 19:45:54,250] INFO music_dl: Search: 96 raw → 56 deduped (total=246) from 6 sources
+[2026-08-23 19:46:07,139] WARNING music_dl: [stream] source 'direct' failed for 3422671310: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3422671310&auth=a663d5779cc29ca5a5f962249bb57314398e5c7a
+[2026-08-23 19:46:07,312] INFO music_dl: [stream] audio OK via 'netease' for 3422671310
+[2026-08-23 19:46:31,398] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:46:31,712] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:46:33,191] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:46:33,696] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:46:34,004] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:46:34,018] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 19:46:34,019] INFO music_dl: Search: 75 raw → 64 deduped (total=600) from 4 sources
+[2026-08-23 19:46:36,144] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 19:46:36,816] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:46:37,064] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 19:46:37,183] INFO music_dl: [cache] Search HIT: MIMI|qq|1
+[2026-08-23 19:46:37,738] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:46:37,739] INFO music_dl: Search: 75 raw → 64 deduped (total=600) from 4 sources
+[2026-08-23 19:46:38,263] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:46:38,623] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 19:46:39,772] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:46:39,773] INFO music_dl: Search: 55 raw → 49 deduped (total=480) from 3 sources
+[2026-08-23 19:46:40,643] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:46:40,644] INFO music_dl: Search: 55 raw → 49 deduped (total=480) from 3 sources
+[2026-08-23 19:46:41,767] INFO music_dl: [stream] audio OK via 'netease_cross' for 004W99Ka0WXxnb
+[2026-08-23 19:46:51,376] WARNING music_dl: [stream] source 'direct' failed for 1999253939: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=1999253939&auth=468fc129d8eec47746fb1a6a9a9768c37592b045
+[2026-08-23 19:46:51,527] INFO music_dl: [stream] audio OK via 'netease' for 1999253939
+[2026-08-23 19:46:54,927] INFO music_dl: [cache] Search HIT: MIMI|kugou|1
+[2026-08-23 19:49:15,573] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 19:49:15,947] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:49:16,168] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 19:49:16,365] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 19:49:17,989] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:49:22,884] INFO music_dl: [gdstudio] found 19 results, total=19
+[2026-08-23 19:49:22,885] INFO music_dl: Search: 96 raw → 56 deduped (total=246) from 6 sources
+[2026-08-23 19:49:24,413] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 19:49:24,583] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 19:49:26,002] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 19:49:26,004] INFO music_dl: Search: 55 raw → 49 deduped (total=480) from 3 sources
+[2026-08-23 20:09:05,385] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 20:09:05,632] INFO music_dl: [htwav] found 15 results, total=360
+[2026-08-23 20:09:07,445] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:09:07,447] INFO music_dl: Search: 65 raw → 46 deduped (total=480) from 3 sources
+[2026-08-23 20:09:07,914] INFO music_dl: [kuwo] found 20 results, total=3600
+[2026-08-23 20:09:08,203] INFO music_dl: [htwav] found 15 results, total=360
+[2026-08-23 20:09:14,896] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 20:09:14,896] INFO music_dl: Search: 55 raw → 48 deduped (total=3600) from 3 sources
+[2026-08-23 20:09:15,353] INFO music_dl: [htwav] found 15 results, total=360
+[2026-08-23 20:09:15,400] INFO music_dl: [xiageba] found 20 results, total=1712
+[2026-08-23 20:09:15,950] INFO music_dl: [migu] found 20 results, total=400
+[2026-08-23 20:09:15,951] INFO music_dl: Search: 55 raw → 49 deduped (total=1712) from 3 sources
+[2026-08-23 20:09:41,603] WARNING music_dl: [stream] source 'direct' failed for b3a52a7a958bf0aed0ebfba2e9a818b7: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=kugou&type=url&id=b3a52a7a958bf0aed0ebfba2e9a818b7&auth=410ca69cc7f84fb628158e717e964aa6e3fe1568
+[2026-08-23 20:09:42,011] INFO music_dl: [stream] audio OK via 'netease_cross' for b3a52a7a958bf0aed0ebfba2e9a818b7
+[2026-08-23 20:09:56,045] INFO music_dl: [stream] audio OK via 'cache' for b3a52a7a958bf0aed0ebfba2e9a818b7
+[2026-08-23 20:09:57,514] INFO music_dl: [stream] audio OK via 'netease_cross' for 474678847
+[2026-08-23 20:09:58,886] INFO music_dl: [stream] audio OK via 'netease_cross' for 600929000000096577
+[2026-08-23 20:14:08,838] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:14:09,143] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:14:09,344] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 20:14:10,014] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:14:10,028] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 20:14:14,427] INFO music_dl: [gdstudio] found 19 results, total=19
+[2026-08-23 20:14:14,428] INFO music_dl: Search: 96 raw → 56 deduped (total=246) from 6 sources
+[2026-08-23 20:14:19,990] WARNING music_dl: [stream] source 'direct' failed for 3422671310: 404 Client Error: Not Found for url: https://api.i-meto.com/meting/api?server=netease&type=url&id=3422671310&auth=a663d5779cc29ca5a5f962249bb57314398e5c7a
+[2026-08-23 20:14:20,167] INFO music_dl: [stream] audio OK via 'netease' for 3422671310
+[2026-08-23 20:14:24,499] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:14:24,562] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 20:14:27,947] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:14:27,948] INFO music_dl: Search: 55 raw → 49 deduped (total=480) from 3 sources
+[2026-08-23 20:14:32,879] INFO music_dl: [stream] audio OK via 'netease_cross' for 5a2cef0a749c4f223612ee265b58ba9a
+[2026-08-23 20:14:36,783] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:14:36,893] INFO music_dl: [kuwo] found 20 results, total=2872
+[2026-08-23 20:14:42,937] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:14:43,223] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:14:43,596] INFO music_dl: [migu] found 20 results, total=266
+[2026-08-23 20:14:43,621] INFO music_dl: Search: 45 raw → 43 deduped (total=266) from 3 sources
+[2026-08-23 20:14:44,692] INFO music_dl: [kuwo] found 20 results, total=2872
+[2026-08-23 20:14:45,555] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:14:46,688] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 20:14:46,689] INFO music_dl: Search: 45 raw → 44 deduped (total=2872) from 3 sources
+[2026-08-23 20:14:51,426] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 20:14:51,427] INFO music_dl: Search: 45 raw → 44 deduped (total=2872) from 3 sources
+[2026-08-23 20:15:06,008] ERROR music_dl: [stream] ALL SOURCES FAILED for 600929000004247089: netease_cross; myhkw_id; myhkw_kw; gdstudio
+[2026-08-23 20:15:28,962] INFO music_dl: [cache] Search HIT: MIMI|kuwo|1
+[2026-08-23 20:15:33,805] INFO music_dl: [stream] audio OK via 'netease_cross' for 600929000002171376
+[2026-08-23 20:15:35,786] INFO music_dl: [stream] audio OK via 'netease_cross' for 561794090
+[2026-08-23 20:16:02,012] INFO music_dl: [stream] audio OK via 'netease_cross' for 600929000001518763
+[2026-08-23 20:16:43,888] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:16:44,232] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:16:46,414] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:16:46,621] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 20:16:46,622] INFO music_dl: Search: 75 raw → 63 deduped (total=600) from 4 sources
+[2026-08-23 20:16:47,367] INFO music_dl: [cache] Search HIT: MIMI|qq|1
+[2026-08-23 20:16:51,001] INFO music_dl: [stream] audio OK via 'netease_cross' for 004W99Ka0WXxnb
+[2026-08-23 20:17:20,639] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 20:17:20,725] INFO music_dl: [kuwo] found 20 results, total=2872
+[2026-08-23 20:17:21,157] INFO music_dl: [migu] found 20 results, total=266
+[2026-08-23 20:17:21,410] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 20:17:21,537] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:21,582] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:21,631] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:22,591] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:22,835] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:22,901] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:23,024] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 20:17:23,083] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:23,562] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:23,571] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 20:17:27,640] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 20:17:28,120] INFO music_dl: [gdstudio] found 19 results, total=19
+[2026-08-23 20:17:33,058] INFO music_dl: [kuwo] found 20 results, total=2872
+[2026-08-23 20:17:33,135] INFO music_dl: [kugou] found 20 results, total=480
+[2026-08-23 20:17:33,298] INFO music_dl: [migu] found 20 results, total=266
+[2026-08-23 20:17:33,635] INFO music_dl: [direct] found 20 results, total=246
+[2026-08-23 20:17:33,782] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:33,827] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:33,945] INFO music_dl: [xiageba] found 20 results, total=85
+[2026-08-23 20:17:34,668] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:34,744] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:34,853] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:34,922] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:35,013] INFO music_dl: [htwav] found 5 results, total=5
+[2026-08-23 20:17:35,206] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:17:35,421] INFO music_dl: [meting] found 30 results, total=30
+[2026-08-23 20:17:35,651] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-08-23 20:17:35,666] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-08-23 20:17:36,740] INFO music_dl: Search: 226 raw → 137 deduped (total=2872) from 9 sources
+[2026-08-23 20:17:41,159] INFO music_dl: [gdstudio] found 19 results, total=19
+[2026-08-23 20:17:43,049] INFO music_dl: [gdstudio] found 20 results, total=20
+[2026-08-23 20:17:48,327] INFO music_dl: Search: 286 raw → 174 deduped (total=2872) from 10 sources
+[2026-09-15 14:09:12,608] INFO music_dl: [xiageba] found 20 results, total=123
+[2026-09-15 14:09:12,929] INFO music_dl: [direct] found 20 results, total=253
+[2026-09-15 14:09:15,183] INFO music_dl: [luckxz] found 2 results, total=2
+[2026-09-15 14:09:29,582] INFO music_dl: Search: 42 raw → 41 deduped (total=253) from 3 sources
+[2026-09-15 14:09:30,794] INFO music_dl: [stream] audio OK via 'netease' for 3434220196
+[2026-09-15 14:09:46,320] WARNING music_dl: [admin] Failed auth attempt from 127.0.0.1
+[2026-09-15 14:09:48,991] INFO music_dl: [admin] Successful auth from 127.0.0.1
+[2026-09-15 14:10:16,493] INFO music_dl: [kuwo] found 20 results, total=3373
+[2026-09-15 14:10:16,657] INFO music_dl: [kugou] found 20 results, total=480
+[2026-09-15 14:10:16,981] INFO music_dl: [migu] found 20 results, total=278
+[2026-09-15 14:10:17,067] INFO music_dl: [direct] found 20 results, total=253
+[2026-09-15 14:10:18,207] INFO music_dl: [qqmusic] found 20 results, total=600
+[2026-09-15 14:10:18,351] INFO music_dl: [xiageba] found 20 results, total=123
+[2026-09-15 14:10:18,389] INFO music_dl: [xiageba] found 20 results, total=123
+[2026-09-15 14:10:18,428] INFO music_dl: [xiageba] found 20 results, total=123
